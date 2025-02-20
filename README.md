@@ -65,4 +65,4 @@ When a user sends the `/gifts` command, the bot requests all available gifts fro
 
 If you have any questions or suggestions, please reach out:
 
-- **Telegram:** [@NERV_NICKK](https://t.me/NERV_NICKK)"# Telegram-Unique-Gifts" 
+- **Telegram:** [@NERV_NICKK](https://t.me/NERV_NICKK)
